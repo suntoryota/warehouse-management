@@ -7,6 +7,11 @@
 - Maven
 
 ## Features
+- Admin Management (CRUD, Authentication)
+- Product Category Management
+- Product Management
+- Transaction Management (Stock In/Out)
+- Transaction History
 
 ### 1. Admin Management
 #### Endpoints:
